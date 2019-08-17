@@ -49,8 +49,7 @@ def dennis_ritchies_language
         }
      }
 end
-
-
+programmer_hash.collect do |:grace_hopper, known_for, languages|
 
 def adding_matz
 # add the following information to the top level of programmer_hash
